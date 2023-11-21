@@ -166,7 +166,71 @@
             "id": "124"
           }
         ]
-      }
+      },
+      {
+        "subproduct": "AnbuScan",
+        "issueName": "Metal Gear",
+        "issueDescription": "I am No Hero. Never Was, Never Will Be...",
+        "fileName": "snake_eater.py",
+        "remediationSteps": "Fix me fast.",
+        "risk": "high",
+        "severity": 8,
+        "status": "open",
+        "referenceIdentifiers": [
+          {
+            "type": "cwe",
+            "id": "79"
+          }
+        ]
+      },
+      {
+        "subproduct": "AnbuScan",
+        "issueName": "Zelda's Labyrinth",
+        "issueDescription": "Complex dependency maze leading to potential deadlocks.",
+        "fileName": "hyrule_journey.js",
+        "remediationSteps": "Refactor the legacy code.",
+        "risk": "medium",
+        "severity": 5,
+        "status": "open",
+        "referenceIdentifiers": [
+          {
+            "type": "cwe",
+            "id": "85"
+          }
+        ]
+      },
+      {
+        "subproduct": "AnbuScan",
+        "issueName": "Pac-Man Buffer",
+        "issueDescription": "Circular buffer overflow in the ghost chase algorithm.",
+        "fileName": "maze_runner.c",
+        "remediationSteps": "Implement proper buffer size checks.",
+        "risk": "high",
+        "severity": 7,
+        "status": "open",
+        "referenceIdentifiers": [
+          {
+            "type": "cwe",
+            "id": "120"
+          }
+        ]
+      },
+      {
+        "subproduct": "AnbuScan",
+        "issueName": "Tetris Linker",
+        "issueDescription": "Dynamic linking error causing unpredictable block drops.",
+        "fileName": "falling_blocks.go",
+        "remediationSteps": "Inspect dynamic linker paths.",
+        "risk": "low",
+        "severity": 4,
+        "status": "open",
+        "referenceIdentifiers": [
+          {
+            "type": "cwe",
+            "id": "115"
+          }
+        ]
+      }        
     ]
   }
   
