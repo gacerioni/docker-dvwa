@@ -1,0 +1,172 @@
+{
+    "meta": {
+      "key": [
+        "issueName",
+        "fileName"
+      ],
+      "subproduct": "Harness"
+    },
+    "issues": [
+      {
+        "subproduct": "AnbuScan",
+        "issueName": "Metal Gear",
+        "issueDescription": "I am No Hero. Never Was, Never Will Be...",
+        "fileName": "snake_eater.py",
+        "remediationSteps": "Fix me fast.",
+        "risk": "high",
+        "severity": 8,
+        "status": "open",
+        "referenceIdentifiers": [
+          {
+            "type": "cwe",
+            "id": "79"
+          }
+        ]
+      },
+      {
+        "subproduct": "AnbuScan",
+        "issueName": "Zelda's Labyrinth",
+        "issueDescription": "Complex dependency maze leading to potential deadlocks.",
+        "fileName": "hyrule_journey.js",
+        "remediationSteps": "Refactor the legacy code.",
+        "risk": "medium",
+        "severity": 5,
+        "status": "open",
+        "referenceIdentifiers": [
+          {
+            "type": "cwe",
+            "id": "85"
+          }
+        ]
+      },
+      {
+        "subproduct": "AnbuScan",
+        "issueName": "Pac-Man Buffer",
+        "issueDescription": "Circular buffer overflow in the ghost chase algorithm.",
+        "fileName": "maze_runner.c",
+        "remediationSteps": "Implement proper buffer size checks.",
+        "risk": "high",
+        "severity": 7,
+        "status": "open",
+        "referenceIdentifiers": [
+          {
+            "type": "cwe",
+            "id": "120"
+          }
+        ]
+      },
+      {
+        "subproduct": "AnbuScan",
+        "issueName": "Tetris Linker",
+        "issueDescription": "Dynamic linking error causing unpredictable block drops.",
+        "fileName": "falling_blocks.go",
+        "remediationSteps": "Inspect dynamic linker paths.",
+        "risk": "low",
+        "severity": 4,
+        "status": "open",
+        "referenceIdentifiers": [
+          {
+            "type": "cwe",
+            "id": "115"
+          }
+        ]
+      },
+      {
+        "subproduct": "AnbuScan",
+        "issueName": "Mario's Leap",
+        "issueDescription": "Incorrect physics calculations in jump mechanics.",
+        "fileName": "plumber_jump.py",
+        "remediationSteps": "Revise the physics engine code.",
+        "risk": "medium",
+        "severity": 6,
+        "status": "open",
+        "referenceIdentifiers": [
+          {
+            "type": "cwe",
+            "id": "369"
+          }
+        ]
+      },
+      {
+        "subproduct": "AnbuScan",
+        "issueName": "Sonic Speed",
+        "issueDescription": "Uncontrolled resource consumption when speed increases.",
+        "fileName": "hedgehog_run.rb",
+        "remediationSteps": "Optimize resource allocation strategy.",
+        "risk": "high",
+        "severity": 7,
+        "status": "open",
+        "referenceIdentifiers": [
+          {
+            "type": "cwe",
+            "id": "400"
+          }
+        ]
+      },
+      {
+        "subproduct": "AnbuScan",
+        "issueName": "Portal Paradox",
+        "issueDescription": "Recursive loop vulnerability in portal generation logic.",
+        "fileName": "dimensional_travel.cpp",
+        "remediationSteps": "Limit recursion depth.",
+        "risk": "critical",
+        "severity": 9,
+        "status": "open",
+        "referenceIdentifiers": [
+          {
+            "type": "cwe",
+            "id": "674"
+          }
+        ]
+      },
+      {
+        "subproduct": "AnbuScan",
+        "issueName": "Final Fantasy Overflow",
+        "issueDescription": "Stack overflow during epic battle sequences.",
+        "fileName": "battle_system.asm",
+        "remediationSteps": "Reconfigure stack usage.",
+        "risk": "medium",
+        "severity": 5,
+        "status": "open",
+        "referenceIdentifiers": [
+          {
+            "type": "cwe",
+            "id": "121"
+          }
+        ]
+      },
+      {
+        "subproduct": "AnbuScan",
+        "issueName": "Assassin's Creed Sync",
+        "issueDescription": "Synchronization errors in multi-threaded assassinations.",
+        "fileName": "stealth_sequence.js",
+        "remediationSteps": "Enhance thread management.",
+        "risk": "medium",
+        "severity": 6,
+        "status": "open",
+        "referenceIdentifiers": [
+          {
+            "type": "cwe",
+            "id": "662"
+          }
+        ]
+      },
+      {
+        "subproduct": "AnbuScan",
+        "issueName": "Skyrim Shout",
+        "issueDescription": "Buffer underflow when executing dragon shouts.",
+        "fileName": "dragon_language.kt",
+        "remediationSteps": "Adjust buffer allocation strategies.",
+        "risk": "low",
+        "severity": 3,
+        "status": "open",
+        "referenceIdentifiers": [
+          {
+            "type": "cwe",
+            "id": "124"
+          }
+        ]
+      }
+    ]
+  }
+  
